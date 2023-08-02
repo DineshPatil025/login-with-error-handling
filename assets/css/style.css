@@ -1,0 +1,41 @@
+.loginHead {
+    background-color: #b88e17;
+
+    margin-bottom: 0;
+}
+
+body{
+    background-color: #b8b617;
+
+}
+
+.password-icon{
+    display: flex;
+    align-items: center;
+    color: black;
+    
+}
+
+
+.eyeIcon{
+    margin-left: -30px;
+    font-size: 20px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.password-icon .password{
+    padding: 10px;
+}
+
+.dashborad{
+display: flex;
+height: 100vh;
+justify-content: center;
+align-items: center;
+color: black;
+font-size: 50px;
+/* background-color: bisque; */
+border-radius: 5px;
+}
+
